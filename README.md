@@ -1,4 +1,4 @@
-##SCRIPT-PAD
+## SCRIPT-PAD
 
 This is an **'GUI'** based text editor
 
